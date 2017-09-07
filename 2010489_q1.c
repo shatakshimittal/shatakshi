@@ -18,7 +18,7 @@ int main()
 		{
 			scanf("%d",&arr[i]);
 		}
-		printf("Enter the number to be search : ");
+		printf("Enter number to be search : ");
 		scanf("%d",&num);
 		for(i=0; i<n; i++)
 		{
